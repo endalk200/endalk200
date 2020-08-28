@@ -1,7 +1,6 @@
-### Hi there, I'm [Dan Siegel][website] 👋
+### Hi there, I'm Endalkachew Biruk 👋
+
+I am Software Engineer with Love for Python.
 
 <br />
 
-### Hi there 👋
-
-I am software Engineering Student at AAit
