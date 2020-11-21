@@ -18,7 +18,7 @@ My name is Endalkachew Biruk and I'm a software developer/DevOps engineer. I'm f
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/endalk200/endalk200">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endalk200&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endalk200&hide=HTML,SCSS,CSS&itle_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/endalk200/endalk200">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=endalk200&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Endalk's GitHub Stats" />
