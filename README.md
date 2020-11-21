@@ -37,6 +37,15 @@ My name is Endalkachew Biruk and I'm a software developer/DevOps engineer. I'm f
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/endalk200/endalk200/master/linkedin-3-16.png (LinkedIn icon without padding)
 
+<hr/>
+
+<a href="https://github.com/endalk200/py_tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=endalk200&repo=py_tools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+
+<a href="https://github.com/endalk200/py_tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=endalk200&repo=TwitterClone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
 
 <!-- links to your social media accounts -->
 
