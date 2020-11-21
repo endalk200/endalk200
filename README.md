@@ -39,8 +39,8 @@ My name is Endalkachew Biruk and I'm a software developer/DevOps engineer. I'm f
 
 <hr/>
 
-<a href="https://github.com/endalk200/py_tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=endalk200&repo=py_tools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/endalk200/COVID-19-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=endalk200&repo=COVID-19-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
 
 <a href="https://github.com/endalk200/document-scanner">
