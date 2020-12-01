@@ -3,7 +3,6 @@
 
 My name is Endalkachew Biruk and I'm a software developer/DevOps engineer. I'm from Ethiopia, living in Addis Ababa and currently working with Python, Docker, React.js and React Native. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
