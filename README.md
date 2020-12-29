@@ -1,52 +1,15 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/endalk200/endalk200/master/wave.gif" width="30px">, I'm Endalkachew Biruk</h1>
+<h3 align="center">A self-taught programmer and Teck enthusiast</h3>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/endalk200/endalk200/master/wave.gif" width="30px">
+### Connect with me:
 
-My name is Endalkachew Biruk and I'm a software developer/DevOps engineer. I'm from Ethiopia, living in Addis Ababa and currently working with Python, Docker, React.js and React Native. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+<a href="https://twitter.com/endalk200" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="endalk200" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/endalk200" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="endalk200" height="22" width="22" /></a>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+### Languages and Tools:
 
-## &#x1f4c8; GitHub Stats
+<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="22" height="22"/></p>
 
-<a href="https://github.com/endalk200/endalk200">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=endalk200&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Endalk's GitHub Stats" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endalk200&layout=compact&hide=html" alt="endalk200" /></p>
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/endalk200/endalk200/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<hr/>
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/endalk200
-[2]: https://github.com/endalk200
-[3]: https://www.linkedin.com/in/endalkachew-biruk-0365231b3/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=endalk200&show_icons=true" alt="endalk200" /></p>
