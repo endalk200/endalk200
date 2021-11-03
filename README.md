@@ -10,8 +10,7 @@
 <a href="https://linkedin.com/in/endalk200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="endalk200" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/endalk200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="endalk200" height="30" width="40" /></a>
  <a href="https://codepen.io/endalk200" target="blank">
- <img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
-" alt="endalk200" height="30" width="90" />
+ <img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="endalk200" height="30" width="90" />
 </a>
  <a href="" target="blank">
 <a href="https://codesandbox.com/endalk200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="endalk200" height="30" width="40" /></a>
