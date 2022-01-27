@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Endalk, fullstack web developer.</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> There, I'm Endalk, Full-Stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -19,7 +19,12 @@
 <a href="https://hashnode.com/@endalk200" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="endalk200" height="30" width="70" /></a>
 </p>
 
-<p>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=endalk200&show_icons=true&locale=en&count_private=true" alt="endalk200" />
-  <img width=400 height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=endalk200&layout=compact" alt="endalk200" />
-</p>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=endalk200&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endalk200&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ### ✍️ Blog Posts : 
+- [Production-Ready Docker Configuration With DigitalOcean Container Registry Part I](https://endalk200.com/blog/full-production-django-docker-configuration-part-I)
+ - [Production-Ready Docker Configuration With DigitalOcean Container Registry Part II](https://endalk200.com/blog/full-production-django-docker-configuration-part-II)
+ - [Getting started with containerizing ReactJs application —  development and production environment setup.](https://endalk200.com/blog/containerizing-reactjs)
+ 
