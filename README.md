@@ -27,6 +27,8 @@
  
  
  ### ✍️ Blog Posts : 
+- [Complete guide to JavaScript callbacks](https://endalk200.com/blog/javascript-callbacks)
+- [Introduction to JavaScript asyn and await](https://endalk200.com/blog/javascript-promises-async-await)
 - [Production-Ready Docker Configuration With DigitalOcean Container Registry Part I](https://endalk200.com/blog/full-production-django-docker-configuration-part-I)
  - [Production-Ready Docker Configuration With DigitalOcean Container Registry Part II](https://endalk200.com/blog/full-production-django-docker-configuration-part-II)
  - [Getting started with containerizing ReactJs application —  development and production environment setup.](https://endalk200.com/blog/containerizing-reactjs)
