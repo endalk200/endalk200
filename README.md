@@ -1,11 +1,10 @@
 <h2>Hey 👋, I'm <a href="https://endalk200.com/">Endalk</a></h2>
 
-<p>I'm a full-stack software engineer who is a huge fan of fully type safe applications.
+<p>I'm a full-stack software engineer who is a huge fan of fully type safe applications.</p>
 
  <a href="https://endalk200.com" target="blank">
  <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="endalk200" height="30" width="90" />
 </a>
-
 <a href="https://twitter.com/endalk200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="endalk200" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/endalk200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="endalk200" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/endalk200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="endalk200" height="30" width="40" /></a>
@@ -19,6 +18,7 @@
 <a href="https://hashnode.com/@endalk200" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="endalk200" height="30" width="70" /></a>
 
 <h2>⚡️ A Few Quick Facts</h2>
+
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/endalk200/contentlab">contentlab</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong> and <strong>distributed systems</strong>.</li>
@@ -26,6 +26,7 @@
 <li>📝 I regulary write articles on <a href="https://endalk200.com">my blog</a>.</li>
 <li>💬 Ping me about <strong>full-stack type safety, React, NextJs and NestJs stuff</strong>.</li>
 </ul>
+
 <h2>✒️ Recent Posts</h2>
 
 - [Complete guide to JavaScript callbacks](https://endalk200.com/blog/javascript-callbacks)
