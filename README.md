@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://endalk200.com/blog](https://endalk200.com/blog)
 
-- 💬 Ask me about **Event driven architecture, Distributed systems design, NestJS, React, NextJs, Docker, Kubernetes, Temporal, NATS, Kafka, GraphQL, tRPC**
+- 💬 Ask me about **Event driven architecture, Distributed systems design, NestJS, React, NextJs, Docker, Kubernetes, Temporal, NATS, Kafka, GraphQL, tRPC and Open Telemetry**
 
 - 📫 How to reach me **https://endalk200.com**
 
