@@ -5,6 +5,9 @@
 
 - 📝 I regularly write articles on [https://endalk200.com/blog](https://endalk200.com/blog)
 
+- Active contributor to
+  - [Amplication](https://github.com/amplication/amplication/) is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+
 - 💬 Ask me about **Event driven architecture, Distributed systems design, NestJS, React, NextJs, Docker, Kubernetes, Temporal, NATS, Kafka, GraphQL, tRPC and Open Telemetry**
 
 - 📫 How to reach me **https://endalk200.com**
