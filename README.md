@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **Event driven architecture, Distributed systems design, NestJS, React, NextJs, Docker, Kubernetes, Temporal, NATS, Kafka, GraphQL, tRPC and Open Telemetry**
 
+- 📖 Currently learning Rust
+
 - 📫 How to reach me **https://endalk200.com**
 
 <h3 align="left">Connect with me:</h3>
