@@ -5,7 +5,7 @@
 
 - 📖 Currently learning Rust
 
-- 📫 How to reach me **https://endalk200.com**
+- 📫 How to reach me endalkbirukt@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 
