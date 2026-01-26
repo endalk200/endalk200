@@ -22,6 +22,7 @@
 - 🛠️ **[ai-registry](https://github.com/endalk200/ai-registry)** - Reusable and customizable AI agents and tools to be used with both [AI SDK](https://ai-sdk.dev/) and [Tanstack AI](https://tanstack.com/ai/latest)
 - ⚽ **[Golazo](https://github.com/endalk200/golazo)** - a tool to keep track of football stats and sync matches to my calendar
 - 💵 **[Finance Tracker](https://github.com/endalk200)** - May your money be a slave to you.
+- 🛠️ **[Time Tracker](https://github.com/endalk200)** - A multi-platform digital habit tracker and time tracker with detailed analytics and reporting.
 - 🌐 **[init](https://github.com/endalk200/init)** - A tool to setup and configure new remote linux machines powered by Ansible
 - 🤖 **[ezer](https://github.com/endalk200/ezer)** - AI agent and chat application for personal use
 - 🍺 **[homebrew-tap](https://github.com/endalk200/homebrew-tap)** - Brew tap for shipping my CLI tools fast
@@ -38,12 +39,13 @@
 ## Scratchpad and Playground Projects
 
 - 🔬 **[cli-tui](https://github.com/endalk200/cli-tui.poc)** - Experimentation playground for creating CLI apps and TUIs with TypeScript, Python and Go
-- 🔬 **[](https://github.com/endalk200/exa.poc)** - Experimentation playground for [exa](https://exa.ai), a search API provider for AI apps and agents
+- 🔬 **[Exa](https://github.com/endalk200/exa.poc)** - Experimentation playground for [exa](https://exa.ai), a search API provider for AI apps and agents
 - 🔬 **[effects-ts](https://github.com/endalk200/effects-ts.poc)** - Experimentation playground for [effects-ts](https://effects-ts.dev), a TypeScript library for building enterprise-grade applications and services
 - 🔬 **[aws.poc](https://github.com/endalk200/aws.poc)** - Experimentation playground for AWS SDKs and CLIs
 - 🔬 **[remote-sandbox](https://github.com/endalk200/remote-sandbox.poc)** - Experimentation playground for remote sandboxing and containerization using vercel sandbox, cloudflare sandbox and daytona
 - 🔬 **[ai-sdk](https://github.com/endalk200/ai-sdk.poc)** - Experimentation playground for [AI SDK](https://ai-sdk.dev), a unified toolkit for building AI agents and tools
 - 🔬 **[serverless](https://github.com/endalk200/serverless.poc)** - Experimentation playground for serverless functions on AWS lambda, Vercel edge functions, and Cloudflare worker
+- 🔬 **[otel-prometheus-grafana-cloudwatch.poc](https://github.com/endalk200/exa.poc)** - Experimentation playground OpentTelemetry, Prometheus, Grafana, and CloudWatch integration in simple Go application.
 
 ## Latest Blog Posts
 
