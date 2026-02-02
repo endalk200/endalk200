@@ -45,7 +45,7 @@
 - 🔬 **[remote-sandbox](https://github.com/endalk200/remote-sandbox.poc)** - Experimentation playground for remote sandboxing and containerization using vercel sandbox, cloudflare sandbox and daytona
 - 🔬 **[ai-sdk](https://github.com/endalk200/ai-sdk.poc)** - Experimentation playground for [AI SDK](https://ai-sdk.dev), a unified toolkit for building AI agents and tools
 - 🔬 **[serverless](https://github.com/endalk200/serverless.poc)** - Experimentation playground for serverless functions on AWS lambda, Vercel edge functions, and Cloudflare worker
-- 🔬 **[otel-prometheus-grafana-cloudwatch.poc](https://github.com/endalk200/exa.poc)** - Experimentation playground OpentTelemetry, Prometheus, Grafana, and CloudWatch integration in simple Go application.
+- 🔬 **[observability.poc](https://github.com/endalk200/observability.poc)** - Experimentation playground for observability solutions like Grafana, Prometheus, Loki, Tempo, Sentry, PostHog and Betterstack
 
 ## Latest Blog Posts
 
