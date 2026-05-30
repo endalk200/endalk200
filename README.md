@@ -18,11 +18,9 @@
 
 ## Current Projects
 
+- 🛠️ **[skopeo](https://github.com/endalk200/skopeo)** - Open source code review toolset comprised of CLI for local workflow and webapp for CI integration
 - 🪝 **[better-webhook](https://github.com/endalk200/better-webhook)** - Unified toolkit for working with webhooks
 - 🛠️ **[ai-registry](https://github.com/endalk200/ai-registry)** - Reusable and customizable AI agents and tools to be used with both [AI SDK](https://ai-sdk.dev/) and [Tanstack AI](https://tanstack.com/ai/latest)
-- ⚽ **[Golazo](https://github.com/endalk200/golazo)** - a tool to keep track of football stats and sync matches to my calendar
-- 💵 **[Finance Tracker](https://github.com/endalk200)** - May your money be a slave to you.
-- 🛠️ **[Time Tracker](https://github.com/endalk200)** - A multi-platform digital habit tracker and time tracker with detailed analytics and reporting.
 - 🌐 **[init](https://github.com/endalk200/init)** - A tool to setup and configure new remote linux machines powered by Ansible
 - 🤖 **[ezer](https://github.com/endalk200/ezer)** - AI agent and chat application for personal use
 - 🍺 **[homebrew-tap](https://github.com/endalk200/homebrew-tap)** - Brew tap for shipping my CLI tools fast
