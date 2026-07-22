@@ -19,14 +19,10 @@
 ## Current Projects
 
 - 🛠️ **[skopeo](https://github.com/endalk200/skopeo)** - Open source code review toolset comprised of CLI for local workflow and webapp for CI integration
-- 🪝 **[better-webhook](https://github.com/endalk200/better-webhook)** - Unified toolkit for working with webhooks
-- 🛠️ **[ai-registry](https://github.com/endalk200/ai-registry)** - Reusable and customizable AI agents and tools to be used with both [AI SDK](https://ai-sdk.dev/) and [Tanstack AI](https://tanstack.com/ai/latest)
-- 🌐 **[init](https://github.com/endalk200/init)** - A tool to setup and configure new remote linux machines powered by Ansible
-- 🤖 **[ezer](https://github.com/endalk200/ezer)** - AI agent and chat application for personal use
+- 🛠️ **[belfry](https://github.com/endalk200/skopeo)** - Light weight local observaibility backend
+- 🛠️ **[artiflow](https://github.com/endalk200/skopeo)** - Agent summary, plan and output visualization layer
+- 🪝 **[better-webhook](https://github.com/endalk200/better-webhook)** - Unified toolkit for working with webhook
 - 🍺 **[homebrew-tap](https://github.com/endalk200/homebrew-tap)** - Brew tap for shipping my CLI tools fast
-- 🛠️ **[terraform ragie provider](https://github.com/endalk200/terraform-ragie-provider)** - Terraform provider for managing [ragie](ragie.ai) infrastructure
-- 🛠️ **[terraform github account](https://github.com/endalk200/terraform-github-account)** - Terraform module to manage GitHub organization, teams and repositories
-- 🛠️ **[terraform aws iam](https://github.com/endalk200/terraform-aws-iam)** - Terraform module to manage AWS IAM resources
 - 🛠️ **[.dotfiles](https://github.com/endalk200/.dotfiles)** - My personal dotfiles and shell configurations for Ghosty, Neovim, Tmux, OpenCode, Karabiner, Aerospace, and more
 
 ## Launchkey - Project templates
@@ -34,21 +30,9 @@
 - 🛠️ **[nestjs-launchkey](https://github.com/endalk200/nestjs-launchkey)** - A boilerplate for building a Node.js application with NestJS
 - 🛠️ **[nextjs-launchkey](https://github.com/endalk200/nextjs-launchkey)** - A boilerplate for building a Next.js application
 
-## Scratchpad and Playground Projects
-
-- 🔬 **[cli-tui](https://github.com/endalk200/cli-tui.poc)** - Experimentation playground for creating CLI apps and TUIs with TypeScript, Python and Go
-- 🔬 **[Exa](https://github.com/endalk200/exa.poc)** - Experimentation playground for [exa](https://exa.ai), a search API provider for AI apps and agents
-- 🔬 **[effects-ts](https://github.com/endalk200/effects-ts.poc)** - Experimentation playground for [effects-ts](https://effects-ts.dev), a TypeScript library for building enterprise-grade applications and services
-- 🔬 **[aws.poc](https://github.com/endalk200/aws.poc)** - Experimentation playground for AWS SDKs and CLIs
-- 🔬 **[remote-sandbox](https://github.com/endalk200/remote-sandbox.poc)** - Experimentation playground for remote sandboxing and containerization using vercel sandbox, cloudflare sandbox and daytona
-- 🔬 **[ai-sdk](https://github.com/endalk200/ai-sdk.poc)** - Experimentation playground for [AI SDK](https://ai-sdk.dev), a unified toolkit for building AI agents and tools
-- 🔬 **[serverless](https://github.com/endalk200/serverless.poc)** - Experimentation playground for serverless functions on AWS lambda, Vercel edge functions, and Cloudflare worker
-- 🔬 **[observability.poc](https://github.com/endalk200/observability.poc)** - Experimentation playground for observability solutions like Grafana, Prometheus, Loki, Tempo, Sentry, PostHog and Betterstack
-
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - 🎚️ **[Webhooks Suck - Brief History of Webhooks](https://github.com/endalk200/endalk200.com/tree/main/content/blog)**
 <!-- BLOG-POST-LIST:END -->
 
